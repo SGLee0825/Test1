@@ -3,7 +3,8 @@
 React + TypeScript + Vite 정적 웹앱 (GitHub Pages 배포).
 
 **Pages URL:** https://sglee0825.github.io/Test1/
-TODO(verify): 아직 배포 확인 전 (아래 "배포" 참고)
+GitHub Actions 빌드·배포 성공 (커밋 d029703, github-pages 배포 상태 `success`).
+TODO(verify): 작성 환경의 네트워크 정책으로 이 URL을 직접 열어 보지는 못했다.
 
 ## 기능
 
